@@ -3,7 +3,7 @@ import { Configuration, OpenAIApi } from "openai";
 import './Mallya.css';
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "Enter you API key here",
 });
 
 
